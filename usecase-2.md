@@ -29,3 +29,4 @@ Output
 ![image](https://github.com/apj-dataiku/apj-workshop/assets/157776493/2c84ebc9-87b7-4caf-bd86-db936c18e59e)
 
 
+<img width="965" alt="image" src="https://github.com/apj-dataiku/apj-workshop/assets/157776493/2de4290c-25cc-462b-b5f9-b3d3e9fe45db">
