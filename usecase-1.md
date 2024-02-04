@@ -6,3 +6,5 @@ Write an answer to the customer review provided.”
 
 2. Data
 https://raw.githubusercontent.com/apj-dataiku/apj-workshop/main/AA_reviews_sampled.csv
+
+![image](https://github.com/apj-dataiku/apj-workshop/assets/157776493/f07e13b3-debd-45a4-9d4c-fb491028edee)
