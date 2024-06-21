@@ -1,4 +1,5 @@
 Welcome to the workshop :-)
 
+https://workshop01.apj.dataiku-sandbox.io/
 
-https://shorturl.at/kEOR2
+%load_ext ai_code_assistant
