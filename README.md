@@ -1,4 +1,4 @@
 Welcome to the workshop :-)
 
 
-https://shorturl.at/kEOR2
+https://workshop01.apj.dataiku-sandbox.io/
