@@ -21,5 +21,6 @@
 8. What is the latest Dataiku DSS version right now?
    [13.2.2](https://doc.dataiku.com/dss/latest/release_notes/index.html)
 
+9. How often do you release new version?
    
 
